@@ -1,7 +1,7 @@
 ## NLP 2019 Highlights
 2019 was an impressive year for the field of natural language processing (NLP). In this report, I want to highlight some of the most important stories related to machine learning and NLP that I came across in 2019. I will mostly focus on NLP but I will also highlight a few interesting stories related to AI in general. The headlines are in no particular order. Stories may include publications, engineering efforts, yearly reports, the release of educational resources, etc.
 
-[PDF of "NLP 2018 Highlights"](https://github.com/omarsar/nlp_highlights/blob/master/NLP_2019_Highlights.pdf)
+[PDF of "NLP 2019 Highlights"](https://github.com/omarsar/nlp_highlights/blob/master/NLP_2019_Highlights.pdf)
 
 ---
 
