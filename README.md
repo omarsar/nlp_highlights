@@ -15,3 +15,14 @@ In this report, I have provided a summary of all the biggest NLP stories of the 
 
 ---
 If you are interested in extending this report for the upcoming year (2020), get in touch with me through Twitter ([@omarsar0](https://twitter.com/omarsar0)) or at ellfae@gmail.com.
+
+If you use this report as reference, please cite:
+
+```
+@misc{saravia2019nlp,
+  title={NLP Year in Review — 2019},
+  author={Saravia, Elvis},
+  journal={https://dair.ai/NLP\_Year\_in\_Review-2019/},
+  year={2019}
+}
+```
